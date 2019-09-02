@@ -4,3 +4,6 @@ AI Code is an initiative by fruitpunch where students can learn to apply AI toge
 
 ## Challenge description
 Machine learning is getting increasingly popular among devices on the edge, namely in IoT. In this challenge we are going to build a machine learning model that will run on small, battery-powered devices to detect trigger words just like “Ok, Google” or “Alexa” in home assistants.
+
+
+For this challenge we're going to follow [this](https://codelabs.developers.google.com/codelabs/sparkfun-tensorflow/) walkthrough.
