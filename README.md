@@ -9,4 +9,5 @@ Machine learning is getting increasingly popular among devices on the edge, name
 For this challenge we're having a guest lecturer: Mehmet Ali Anil from Grus BV.
 He is going to guide you through [this](https://codelabs.developers.google.com/codelabs/sparkfun-tensorflow/) walkthrough.
 
-If you have questions afterwards you can always contact him through mehmet@grusbv.com
+Since this is such a different challenge we understand there might be questions afterwards.
+You can contact Mehmet through mehmet@grusbv.com.
